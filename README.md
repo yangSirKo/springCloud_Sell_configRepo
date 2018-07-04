@@ -1,0 +1,2 @@
+# springCloud_Sell_configRepo
+用来存放 SpringCloud_Sell的配置文件
